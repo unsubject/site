@@ -1,18 +1,7 @@
 ---
 layout: page
-title: About
+title: What is Unsubject?
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+I founded Unsubject LLC in 2023 with the goal of revolutionizing education. True to its name, Unsubject isn’t limited by traditional boundaries—it embraces a wide range of fields, from economics and finance to history, philosophy, political science, psychology, technology, business, the arts, and sciences. I want to push beyond the conventional online education model, and in the near future, my biggest ambitions are to gamify the learning experience, integrate practical application, and make learning a community-driven journey.
