@@ -21,9 +21,7 @@
 title: Simon Lee
 email: hk@leesimon.me
 description: A writer, podcaster, entrepreneur and advocate for individual freedom. I draw on over two decades of experience in communication, media and policy to share insights on economics, politics, Hong Kong, China, and international relations.
-baseurl: www.unsubject.com
-twitter_username: simoncf
-github_username: unsubject
+baseurl: https://www.unsubject.com
 
 # Build settings
 theme: minimal-mistakes-jekyll
